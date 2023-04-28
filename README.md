@@ -2,7 +2,7 @@
 This project is a simple API data consumption, it requests to a free API the weather information of a location and dinamicaly shows on screen
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="print of Rio de Janeiro information on the program" height="600px" src="https://github.com/Buenno01/weather/blob/main/weather.png">
+    <img align="center" alt="print of Rio de Janeiro information on the program" height="50%" src="https://github.com/Buenno01/weather/blob/main/weather.png">
 </div>
 
 <div><br> 
