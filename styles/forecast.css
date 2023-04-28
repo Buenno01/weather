@@ -1,12 +1,16 @@
 .container{
     margin-top: 2rem;
     background-color: rgba(	224, 224, 224, 0.7);
-    width: 70vw;
-    height: 60vh;
+    width: 550px;
+    height: 410px;
     border-radius: 20px;
     color: midnightblue;
     text-align: center;
     padding: 0.5em;
+}
+
+.icons{
+    width: 100px;
 }
 
 .city{

@@ -13,6 +13,23 @@ body{
     align-items: center;
 }
 
+.icon-authors{
+    margin-top: auto;
+    font-size: 12px;
+}
+
+a{
+    text-decoration: none;
+    color: midnightblue;
+}
+
+footer{
+    background: rgba(224, 224, 224, 0.4);
+    padding: 6px;
+    width: 100vw;
+    text-align: center;
+}
+
 @media only screen and (max-width:811px) {
     body{
         background-size: 500%;
